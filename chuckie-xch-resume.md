@@ -23,12 +23,12 @@
 
 ### 杭州明软科技（2016年6月 ~ 至今）
 
-#### 艳阳天酒店集团系统（集团端——2017年11月~2018年3月）
+#### 艳阳天酒店集团系统（集团端——2017年11月~至今）
 
 * 技术选型：SpringBoot + SpringCloud + kafka + Dubbo + Angular5 + ng-zerro+nginx
-* 职责：项目搭建，权限模块，支付模块，会员模块等
+* 职责：框架搭建，微服务落地，权限模块，支付模块，会员模块等
 
-学习并实践SpringBoot和Angular5，基于ng-zerro，Angular5搭建前端框架，制定Angular编码规范，分享Angular开发技巧。服务端根据业务进行模块拆分，基于SpringBoot，SpringCloud搭建服务端框架，使用SpringSecurity开发权限模块，自定义注解，完成登录用户参数自动解析功能。
+学习并实践SpringBoot和Angular5，基于ng-zerro，Angular5搭建前端框架，制定Angular编码规范，分享Angular开发技巧。服务端根据业务进行模块拆分，基于SpringBoot，SpringCloud搭建服务端框架，实施微服务落地，使用SpringSecurity开发权限模块，自定义注解，完成登录用户参数自动解析功能等。
 
 
 
